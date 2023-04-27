@@ -4,7 +4,7 @@
 
 New Relic has developed a large number of solutions to support the observability of Salesforce Services.
 This repository provides links and a description of each of these solutions.
-### 1. [SalesForce Streaming API ](https://developer.salesforce.com/docs/atlas.en-us.api_streaming.meta/api_streaming/intro_stream.htm)
+### 1. [New Relic Integration for SalesForce Streaming API ](https://github.com/TobyKnight/nr-salesforce-event-streaming)
 
 #### Description
 
@@ -24,20 +24,7 @@ Refer to the following links for more details.
 - Sales Cloud (Console)
 - Community Cloud
 
-### 2. [New Relic for browser monitoring](https://docs.newrelic.com/docs/browser/browser-monitoring/getting-started/introduction-browser-monitoring/)
-
-#### Description
-
-Browser monitoring in New Relic provides a real user monitoring (RUM) solution. It measures speed and performance as your end users navigate to your site through different web browsers, devices, operating systems, and networks. But browser monitoring goes far beyond providing information about the initial page load. Use it to measure full page life cycle data and start getting the info you need to help ensure customer satisfaction.
-
-New Relic lets you monitor the data from browser activity and optimize performance across your entire stack. Use browser monitoring to help ensure successful deployments and quickly troubleshoot customer-visible problems. Monitor your stack at a glance and make sure all your entities are operating as they should. Visualize application speed and performance, JavaScript errors, AJAX requests, and more. Spend less time trying to chase down issues and more time delivering a perfect digital experience to customers.
-
-#### Scope
-
-- Commerce Cloud
-- Community Cloud
-
-### 3. [SalesForce Lightning Browser ](https://github.com/newrelic-experimental/nr-salesforce-browser)
+### 2. [SalesForce Lightning Browser ](https://github.com/newrelic-experimental/nr-salesforce-browser)
 
 #### Description
 
@@ -51,7 +38,7 @@ This project was created to build Real User Monitoring into Salesforce Lightning
 
 
 
-### 4. [New Relic Logs for Salesforce Commerce Cloud ](https://opensource.newrelic.com/projects/newrelic-experimental/newrelic-logs-for-salesforce-commerce-cloud)
+### 3. [New Relic Logs for Salesforce Commerce Cloud ](https://opensource.newrelic.com/projects/newrelic-experimental/newrelic-logs-for-salesforce-commerce-cloud)
 
 #### Description
 
@@ -61,7 +48,20 @@ A Docker image purpose-built to monitor Salesforce Commerce Cloud (fka Demandwar
 
 - Commerce Cloud
 
-### 5. [New Relic Synthetic Monitoring ](https://newrelic.com/platform/synthetics)
+### 4. [New Relic for browser monitoring](https://docs.newrelic.com/docs/browser/browser-monitoring/getting-started/introduction-browser-monitoring/)
+
+#### Description
+
+Browser monitoring in New Relic provides a real user monitoring (RUM) solution. It measures speed and performance as your end users navigate to your site through different web browsers, devices, operating systems, and networks. But browser monitoring goes far beyond providing information about the initial page load. Use it to measure full page life cycle data and start getting the info you need to help ensure customer satisfaction.
+
+New Relic lets you monitor the data from browser activity and optimize performance across your entire stack. Use browser monitoring to help ensure successful deployments and quickly troubleshoot customer-visible problems. Monitor your stack at a glance and make sure all your entities are operating as they should. Visualize application speed and performance, JavaScript errors, AJAX requests, and more. Spend less time trying to chase down issues and more time delivering a perfect digital experience to customers.
+
+#### Scope
+
+- Commerce Cloud
+- Community Cloud
+
+### 5. [New Relic Synthetic Monitoring ](https://docs.newrelic.com/docs/synthetics/synthetic-monitoring/getting-started/get-started-synthetic-monitoring/)
 
 #### Description
 
